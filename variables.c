@@ -3,6 +3,9 @@ int main(){
    int age = 24;
    double floatx = 55;
    string name = "fvb hhb";
+   bool istrue = true;
+   printf(age);
+   printf(name);
 
 
 
